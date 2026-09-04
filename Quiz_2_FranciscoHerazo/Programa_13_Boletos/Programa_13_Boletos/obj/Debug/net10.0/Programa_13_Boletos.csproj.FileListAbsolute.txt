@@ -1,0 +1,14 @@
+C:\Users\lobin\source\repos\Programa_13_Boletos\Programa_13_Boletos\bin\Debug\net10.0\Programa_13_Boletos.exe
+C:\Users\lobin\source\repos\Programa_13_Boletos\Programa_13_Boletos\bin\Debug\net10.0\Programa_13_Boletos.deps.json
+C:\Users\lobin\source\repos\Programa_13_Boletos\Programa_13_Boletos\bin\Debug\net10.0\Programa_13_Boletos.runtimeconfig.json
+C:\Users\lobin\source\repos\Programa_13_Boletos\Programa_13_Boletos\bin\Debug\net10.0\Programa_13_Boletos.dll
+C:\Users\lobin\source\repos\Programa_13_Boletos\Programa_13_Boletos\bin\Debug\net10.0\Programa_13_Boletos.pdb
+C:\Users\lobin\source\repos\Programa_13_Boletos\Programa_13_Boletos\obj\Debug\net10.0\Programa_13_Boletos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lobin\source\repos\Programa_13_Boletos\Programa_13_Boletos\obj\Debug\net10.0\Programa_13_Boletos.AssemblyInfoInputs.cache
+C:\Users\lobin\source\repos\Programa_13_Boletos\Programa_13_Boletos\obj\Debug\net10.0\Programa_13_Boletos.AssemblyInfo.cs
+C:\Users\lobin\source\repos\Programa_13_Boletos\Programa_13_Boletos\obj\Debug\net10.0\Programa_13_Boletos.csproj.CoreCompileInputs.cache
+C:\Users\lobin\source\repos\Programa_13_Boletos\Programa_13_Boletos\obj\Debug\net10.0\Programa_13_Boletos.dll
+C:\Users\lobin\source\repos\Programa_13_Boletos\Programa_13_Boletos\obj\Debug\net10.0\refint\Programa_13_Boletos.dll
+C:\Users\lobin\source\repos\Programa_13_Boletos\Programa_13_Boletos\obj\Debug\net10.0\Programa_13_Boletos.pdb
+C:\Users\lobin\source\repos\Programa_13_Boletos\Programa_13_Boletos\obj\Debug\net10.0\Programa_13_Boletos.genruntimeconfig.cache
+C:\Users\lobin\source\repos\Programa_13_Boletos\Programa_13_Boletos\obj\Debug\net10.0\ref\Programa_13_Boletos.dll

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lobin\\source\\repos\\Programa_34_comision\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96AF2D4C-5051-4FBE-893A-83394D396BC0}|Programa_34_comision\\Programa_34_comision.csproj|c:\\users\\lobin\\source\\repos\\programa_34_comision\\programa_34_comision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AF2D4C-5051-4FBE-893A-83394D396BC0}|Programa_34_comision\\Programa_34_comision.csproj|solutionrelative:programa_34_comision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lobin\\source\\repos\\Programa_34_comision\\Programa_34_comision\\Program.cs",
+              "RelativeDocumentMoniker": "Programa_34_comision\\Program.cs",
+              "ToolTip": "C:\\Users\\lobin\\source\\repos\\Programa_34_comision\\Programa_34_comision\\Program.cs",
+              "RelativeToolTip": "Programa_34_comision\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T16:08:16.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
